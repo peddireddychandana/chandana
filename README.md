@@ -1,6 +1,6 @@
 <!-- =================== BANNER (WORKING GIF) =================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://www.freepik.com/free-photos-vectors/female-programmer" width="500"/>
 </p>
 
 <!-- =================== NAME / TITLE =================== -->
@@ -8,9 +8,7 @@
 <h3 align="center">Frontend Developer | React • github • saas • HTML • CSS • JS • Tailwind Css •git  </h3>
 
 <!-- =================== PROFILE VIEWS =================== -->
-<p align="center">
-  <img src="https://www.freepik.com/free-photos-vectors/female-programmer" />
-</p>
+
 
 <!-- =================== GITHUB STATS =================== -->
 
