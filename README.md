@@ -9,7 +9,7 @@
 
 <!-- =================== PROFILE VIEWS =================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue" />
+  <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
 </p>
 
 <!-- =================== GITHUB STATS =================== -->
@@ -23,7 +23,7 @@
 
 <!-- =================== BADGES =================== -->
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/peddireddychandana?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
 </p>
 
