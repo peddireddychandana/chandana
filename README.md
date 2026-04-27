@@ -1,7 +1,5 @@
 <!-- =================== BANNER (WORKING GIF) =================== -->
-<p align="center">
-  <img src="https://content.techgig.com/technology/how-can-software-developers-integrate-good-coding-practices/articleshow/78861354.cms" width="500"/>
-</p>
+
 
 <!-- =================== NAME / TITLE =================== -->
 <h1 align="center">Hi 👋, I'm PeddireddyPadmaChandana</h1>
