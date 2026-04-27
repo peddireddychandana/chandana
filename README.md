@@ -9,23 +9,14 @@
 
 <!-- =================== PROFILE VIEWS =================== -->
 <p align="center">
-  <img src="https://dribbble.com/shots/15215756-Coding-Animation-Concept" />
+  <img src="https://www.freepik.com/free-photos-vectors/female-programmer" />
 </p>
 
 <!-- =================== GITHUB STATS =================== -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark" />
-</p>
 
 <!-- =================== BADGES =================== -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/peddireddychandana?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=social" />
-</p>
+
 
 <!-- =================== ABOUT ME =================== -->
 ## 🚀 About Me
